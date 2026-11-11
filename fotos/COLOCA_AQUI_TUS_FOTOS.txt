@@ -1,0 +1,1 @@
+Las fotografías de cada mes van en las carpetas mes-01 hasta mes-15. Consulta CONFIGURACION.txt.
