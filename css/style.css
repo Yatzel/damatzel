@@ -95,3 +95,8 @@ body.lightbox-open{overflow:hidden}
 .footer-instagram:hover{color:#b8d99d}
 .footer-instagram svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 @media(max-width:640px){.playlist-card{grid-template-columns:1fr;padding:17px;gap:18px}.playlist-cover{max-width:170px;width:100%;margin:0 auto}.playlist-player iframe{height:352px}}
+
+/* netlify badge */
+#netlify-badge {
+  display: none !important;
+}
