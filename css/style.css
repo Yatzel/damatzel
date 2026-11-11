@@ -97,6 +97,8 @@ body.lightbox-open{overflow:hidden}
 @media(max-width:640px){.playlist-card{grid-template-columns:1fr;padding:17px;gap:18px}.playlist-cover{max-width:170px;width:100%;margin:0 auto}.playlist-player iframe{height:352px}}
 
 /* netlify badge */
-#netlify-badge {
+/* netlify badge */
+div#__netlify-badge, 
+a[href*="netlify.com/support"] {
   display: none !important;
 }
